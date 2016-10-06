@@ -10,7 +10,7 @@ In this project we use the [CLM-framework](github.com/TadasBaltrusaitis/CLM-fram
 
 ## Installation
 
-You only need to install the [Visual Studio IDE](www.visualstudio.com) and open the solution.
+You only need to install the [Visual Studio 2013](www.visualstudio.com) and open the solution.
 
 ## Contributors
 
